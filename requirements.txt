@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+snowflake-connector-python
+joblib
+snowflake-connector-python[pandas]
+numpy
+mlflow
